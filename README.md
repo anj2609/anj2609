@@ -1,4 +1,6 @@
-[![MasterHead](<img width="1584" height="396" alt="Beige Feminine Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/8704220b-c84e-4638-8d12-26a8ab8376d0" />)]
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8704220b-c84e-4638-8d12-26a8ab8376d0" width="100%" alt="MasterHead" />
+</div>
 <h1 align="center">Hi 👋, I'm Anjali Gupta</h1>
 <h3 align="center">A flutter developer</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
