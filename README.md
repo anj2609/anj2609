@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAG6HuXZQaU/-40zLjU52Gl6YgYwlGe9iw/edit?utm_content=DAG6HuXZQaU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+[![MasterHead](<img width="1584" height="396" alt="Beige Feminine Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/8704220b-c84e-4638-8d12-26a8ab8376d0" />)]
 <h1 align="center">Hi 👋, I'm Anjali Gupta</h1>
 <h3 align="center">A flutter developer</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
