@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/164ab30f-b4c4-480a-9031-c59652218fc5 width="100%" alt="MasterHead" />
-</div>
+<div><img width="1584" height="396" alt="Beige and Blue Minimalist Personal Brand LinkedIn Banner" src="https://github.com/user-attachments/assets/a915037e-9dee-4911-b24a-3940cd673df7" /></div>
+
 <h1 align="center">Hi 👋, I'm Anjali Gupta</h1>
 <h3 align="center">A flutter developer</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
