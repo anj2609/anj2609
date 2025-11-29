@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8704220b-c84e-4638-8d12-26a8ab8376d0" width="100%" alt="MasterHead" />
+  <img src="https://github.com/user-attachments/assets/164ab30f-b4c4-480a-9031-c59652218fc5 width="100%" alt="MasterHead" />
 </div>
 <h1 align="center">Hi 👋, I'm Anjali Gupta</h1>
 <h3 align="center">A flutter developer</h3>
